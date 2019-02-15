@@ -1,16 +1,3 @@
-"""
-                                                                    
-  Program:     Tic-Tac-Toe NxN                                           
-                                                                     
-  Author:      Luke Putz
-  Email:       lp375410@ohio.edu
-                                                                
-                                                                    
-  Description: This script plays a nxn game of
-               Tic Tac Toe with save option                  
-                                                                    
-  Date:        03/21/17                                                                 
-"""
 import random, json
 
 """
